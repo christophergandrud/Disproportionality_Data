@@ -1,0 +1,1052 @@
+"country","year","disproportionality"
+"1","Albania",2001,8.12
+"2","Albania",2005,30.21
+"3","Albania",2009,7.6
+"4","Andorra",2001,9.97
+"5","Andorra",2005,6.1
+"6","Andorra",2009,8.41
+"7","Andorra",2011,17.2
+"8","Angola",1992,3.95
+"9","Angola",2008,4.34
+"10","Antigua and Barbuda",1971,16.9
+"11","Antigua and Barbuda",1976,18.54
+"12","Antigua and Barbuda",1980,20.35
+"13","Antigua and Barbuda",1984,24.97
+"14","Antigua and Barbuda",1989,24.99
+"15","Antigua and Barbuda",1994,12.85
+"16","Antigua and Barbuda",1999,19.64
+"17","Antigua and Barbuda",2004,17.19
+"18","Antigua and Barbuda",2009,5.59
+"19","Argentina",1983,4.39
+"20","Argentina",1985,8.53
+"21","Argentina",1987,5.97
+"22","Argentina",1989,7.55
+"23","Argentina",1991,5.33
+"24","Argentina",1993,6.04
+"25","Argentina",1995,10.91
+"26","Argentina",1997,8.29
+"27","Argentina",1999,4.02
+"28","Argentina",2001,10.02
+"29","Argentina",2005,4.99
+"30","Australia",1946,9.61
+"31","Australia",1949,7.53
+"32","Australia",1951,5.39
+"33","Australia",1954,2.88
+"34","Australia",1955,6.84
+"35","Australia",1958,11.05
+"36","Australia",1961,7.12
+"37","Australia",1963,9
+"38","Australia",1966,10.83
+"39","Australia",1969,6.95
+"40","Australia",1972,6.9
+"41","Australia",1974,5.96
+"42","Australia",1975,13.93
+"43","Australia",1977,14.93
+"44","Australia",1980,8.25
+"45","Australia",1983,10.31
+"46","Australia",1984,7.95
+"47","Australia",1987,10.42
+"48","Australia",1990,12.48
+"49","Australia",1993,8.12
+"50","Australia",1996,10.97
+"51","Australia",1998,10.87
+"52","Australia",2001,9.37
+"53","Australia",2004,8.6
+"54","Australia",2007,10.27
+"55","Australia",2010,11.29
+"56","Austria",1949,3.05
+"57","Austria",1953,3.99
+"58","Austria",1956,4.02
+"59","Austria",1959,4.39
+"60","Austria",1962,3.98
+"61","Austria",1966,3.81
+"62","Austria",1970,2.99
+"63","Austria",1971,1.19
+"64","Austria",1975,1.04
+"65","Austria",1979,0.93
+"66","Austria",1983,2.44
+"67","Austria",1986,0.93
+"68","Austria",1990,2.07
+"69","Austria",1994,1.03
+"70","Austria",1995,1.03
+"71","Austria",1999,3.53
+"72","Austria",2002,1.33
+"73","Austria",2006,2.8
+"74","Austria",2008,2.92
+"75","Bahamas",1972,13.89
+"76","Bahamas",1977,22.58
+"77","Bahamas",1982,16.63
+"78","Bahamas",1987,10.2
+"79","Bahamas",1992,12.2
+"80","Bahamas",1997,27.1
+"81","Bahamas",2002,22.24
+"82","Bahamas",2007,5.03
+"83","Barbados",1971,17.5
+"84","Barbados",1976,17.72
+"85","Barbados",1981,10.42
+"86","Barbados",1986,29.35
+"87","Barbados",1991,12.47
+"88","Barbados",1994,16.75
+"89","Barbados",1999,27.96
+"90","Barbados",2003,20.81
+"91","Barbados",2008,13.33
+"92","Bangladesh",1991,18.81
+"93","Bangladesh",1996,11.45
+"94","Belgium",1946,3.04
+"95","Belgium",1949,4.89
+"96","Belgium",1950,3.23
+"97","Belgium",1954,3.61
+"98","Belgium",1958,3.37
+"99","Belgium",1961,4.12
+"100","Belgium",1965,2.45
+"101","Belgium",1968,3.5
+"102","Belgium",1971,2.42
+"103","Belgium",1974,1.93
+"104","Belgium",1977,2.52
+"105","Belgium",1978,2.81
+"106","Belgium",1981,4.17
+"107","Belgium",1985,3.31
+"108","Belgium",1987,3.24
+"109","Belgium",1991,3.49
+"110","Belgium",1995,3.04
+"111","Belgium",1999,2.99
+"112","Belgium",2003,5.16
+"113","Belgium",2007,3.37
+"114","Belgium",2010,3.77
+"115","Belize",1979,19.68
+"116","Belize",1984,20.02
+"117","Belize",1989,2.65
+"118","Belize",1993,6.43
+"119","Belize",1998,29.53
+"120","Belize",2003,22.1
+"121","Belize",2008,22.69
+"122","Benin",1991,5.21
+"123","Benin",1995,11.01
+"124","Benin",1999,15.56
+"125","Bermuda",1989,7.5
+"126","Bermuda",1993,4.24
+"127","Bermuda",1998,10
+"128","Bermuda",2003,9.28
+"129","Bermuda",2007,8.55
+"130","Bhutan",2008,26.63
+"131","Bolivia",1985,3.15
+"132","Bolivia",1989,6.95
+"133","Bolivia",1993,6.35
+"134","Bolivia",1997,3.72
+"135","Bolivia",2002,7.55
+"136","Bolivia",2005,4
+"137","Bolivia",2009,3.76
+"138","Botswana",1965,8.38
+"139","Botswana",1969,7.46
+"140","Botswana",1974,6.74
+"141","Botswana",1979,12.5
+"142","Botswana",1984,14.13
+"143","Botswana",1989,20.62
+"144","Botswana",1994,11.53
+"145","Botswana",1999,22.1
+"146","Botswana",2004,21.3
+"147","Botswana",2009,21.69
+"148","Brazil",1986,7.01
+"149","Brazil",1990,4.59
+"150","Brazil",1994,4.33
+"151","Brazil",1998,3.57
+"152","Brazil",2002,5.68
+"153","Brazil",2006,3
+"154","Brazil",2010,2.5
+"155","Bulgaria",1990,5.37
+"156","Bulgaria",1991,12.5
+"157","Bulgaria",1994,7.78
+"158","Bulgaria",1997,3.94
+"159","Bulgaria",2001,7.82
+"160","Bulgaria",2005,3.97
+"161","Bulgaria",2009,7
+"162","Cape Verde",1995,7
+"163","Cape Verde",2001,5.51
+"164","Cape Verde",2006,4.19
+"165","Cape Verde",2011,1.95
+"166","Canada",1949,20.62
+"167","Canada",1953,14.05
+"168","Canada",1957,2.91
+"169","Canada",1958,21.15
+"170","Canada",1962,6.43
+"171","Canada",1963,7.45
+"172","Canada",1965,10.19
+"173","Canada",1968,11.58
+"174","Canada",1972,6.26
+"175","Canada",1974,9.86
+"176","Canada",1979,10.41
+"177","Canada",1980,8.72
+"178","Canada",1984,20.91
+"179","Canada",1988,11.33
+"180","Canada",1993,17.67
+"181","Canada",1997,13.26
+"182","Canada",2000,13.56
+"183","Canada",2004,9.81
+"184","Canada",2006,8.61
+"185","Canada",2008,10.09
+"186","Canada",2011,12.42
+"187","Chile",1945,6.3
+"188","Chile",1949,3.99
+"189","Chile",1953,9.58
+"190","Chile",1957,12.63
+"191","Chile",1961,9.51
+"192","Chile",1965,9.37
+"193","Chile",1969,5.82
+"194","Chile",1973,3.45
+"195","Chile",1989,6.52
+"196","Chile",1993,7.47
+"197","Chile",1997,6.9
+"198","Chile",2001,5.12
+"199","Chile",2005,6.79
+"200","Chile",2009,6.87
+"201","Costa Rica",1953,4.28
+"202","Costa Rica",1958,3.43
+"203","Costa Rica",1962,2.29
+"204","Costa Rica",1966,3.03
+"205","Costa Rica",1970,5.4
+"206","Costa Rica",1974,6.19
+"207","Costa Rica",1978,5.51
+"208","Costa Rica",1982,3.51
+"209","Costa Rica",1986,3.31
+"210","Costa Rica",1990,10.71
+"211","Costa Rica",1994,4.8
+"212","Costa Rica",1998,6.34
+"213","Costa Rica",2002,4.58
+"214","Costa Rica",2006,7.53
+"215","Costa Rica",2010,4.96
+"216","Colombia",1958,7.89
+"217","Colombia",1960,6.87
+"218","Colombia",1962,3.69
+"219","Colombia",1964,1.04
+"220","Colombia",1966,3.51
+"221","Colombia",1968,2.16
+"222","Colombia",1970,2.33
+"223","Colombia",1974,1.55
+"224","Colombia",1978,2.03
+"225","Colombia",1982,1.54
+"226","Colombia",1986,3.4
+"227","Colombia",1990,1.81
+"228","Colombia",1991,2.8
+"229","Colombia",1994,3.69
+"230","Colombia",1998,5.45
+"231","Colombia",2002,3.98
+"232","Croatia",2000,6.92
+"233","Croatia",2003,9.6
+"234","Croatia",2007,7.58
+"235","Croatia",2011,12.31
+"236","Cyprus",1970,17.1
+"237","Cyprus",1976,26.05
+"238","Cyprus",1981,3.11
+"239","Cyprus",1985,0.83
+"240","Cyprus",1991,1.58
+"241","Cyprus",1996,1.61
+"242","Cyprus",2001,1.59
+"243","Cyprus",2006,2.42
+"244","Cyprus",2011,1.69
+"245","Czech Republic",1996,8.57
+"246","Czech Republic",1998,5.55
+"247","Czech Republic",2002,5.78
+"248","Czech Republic",2006,5.72
+"249","Czech Republic",2010,8.76
+"250","Denmark",1947,4.24
+"251","Denmark",1950,0.38
+"252","Denmark",1953,0.81
+"253","Denmark",1953,2.61
+"254","Denmark",1957,1.81
+"255","Denmark",1960,2.07
+"256","Denmark",1964,1.89
+"257","Denmark",1966,1.8
+"258","Denmark",1968,1.87
+"259","Denmark",1971,3.45
+"260","Denmark",1973,1.2
+"261","Denmark",1975,1.42
+"262","Denmark",1977,0.41
+"263","Denmark",1979,1.49
+"264","Denmark",1981,1.57
+"265","Denmark",1984,1.38
+"266","Denmark",1987,2.11
+"267","Denmark",1988,2.34
+"268","Denmark",1990,2.62
+"269","Denmark",1994,1.57
+"270","Denmark",1998,0.42
+"271","Denmark",2001,1.58
+"272","Denmark",2005,1.76
+"273","Denmark",2007,0.72
+"274","Denmark",2011,0.73
+"275","Dominican Republic",1978,4.38
+"276","Dominican Republic",1982,9.62
+"277","Dominican Republic",1986,5.07
+"278","Dominican Republic",1990,5.79
+"279","Dominican Republic",1998,18.36
+"280","Dominican Republic",2002,4.99
+"281","Egypt",2011,7.71
+"282","El Salvador",1964,3.25
+"283","El Salvador",1966,5.4
+"284","El Salvador",1968,5.95
+"285","El Salvador",1970,6.27
+"286","El Salvador",1972,7.68
+"287","El Salvador",1978,2.31
+"288","El Salvador",1985,10.46
+"289","El Salvador",1988,4.89
+"290","El Salvador",1991,3.89
+"291","El Salvador",1994,4.66
+"292","El Salvador",1997,4.6
+"293","El Salvador",2000,5.5
+"294","El Salvador",2003,5.39
+"295","El Salvador",2006,1.62
+"296","El Salvador",2009,3.35
+"297","Ecuador",1979,12.78
+"298","Ecuador",1984,12.36
+"299","Ecuador",1986,10.77
+"300","Ecuador",1988,16.68
+"301","Ecuador",1990,5.97
+"302","Ecuador",1992,4.55
+"303","Ecuador",1994,7.55
+"304","Ecuador",1996,6.48
+"305","Ecuador",1998,4.6
+"306","Estonia",1992,7.23
+"307","Estonia",1995,7.34
+"308","Estonia",1999,4.57
+"309","Estonia",2003,3.5
+"310","Estonia",2007,3.43
+"311","Estonia",2011,5.09
+"312","Faeroe Islands",1998,3.59
+"313","Faeroe Islands",2002,1.99
+"314","Faeroe Islands",2004,3.49
+"315","Faeroe Islands",2008,1.73
+"316","Faeroe Islands",2011,1.55
+"317","Fiji",1972,4.32
+"318","Fiji",1977,16.1
+"319","Fiji",1982,2.58
+"320","Fiji",1987,5.49
+"321","Fiji",1992,8.27
+"322","Fiji",1994,10.76
+"323","Fiji",1999,19.26
+"324","Fiji",2001,15.76
+"325","Fiji",2006,7.52
+"326","Finland",1948,3.05
+"327","Finland",1951,1.74
+"328","Finland",1954,2.15
+"329","Finland",1958,2.18
+"330","Finland",1962,4.13
+"331","Finland",1966,2.93
+"332","Finland",1970,2.9
+"333","Finland",1972,2.33
+"334","Finland",1975,3.22
+"335","Finland",1979,2.68
+"336","Finland",1983,2.19
+"337","Finland",1987,4.98
+"338","Finland",1991,3.24
+"339","Finland",1995,3.81
+"340","Finland",1999,3.24
+"341","Finland",2003,3.16
+"342","Finland",2007,3.2
+"343","Finland",2011,2.95
+"344","France",1945,4.15
+"345","France",1946,3.05
+"346","France",1951,7.69
+"347","France",1956,3.27
+"348","France",1973,11.01
+"349","France",1978,6.57
+"350","France",1981,16.04
+"351","France",1986,7.23
+"352","France",1988,11.84
+"353","France",1993,25.25
+"354","France",1997,17.69
+"355","France",2002,21.95
+"356","France",2007,13.58
+"357","Germany",1949,2.31
+"358","Germany",1953,3.92
+"359","Germany",1957,0.67
+"360","Germany",1961,0.59
+"361","Germany",1965,1.41
+"362","Germany",1969,0.5
+"363","Germany",1972,0.76
+"364","Germany",1976,4.63
+"365","Germany",1980,2.22
+"366","Germany",1983,3.15
+"367","Germany",1987,4.61
+"368","Germany",1990,3.85
+"369","Germany",1994,3.67
+"370","Germany",1998,4.69
+"371","Germany",2002,4.43
+"372","Germany",2005,2.16
+"373","Germany",2009,3.4
+"374","Gibraltar",2000,5.61
+"375","Gibraltar",2003,7.81
+"376","Gibraltar",2007,7.87
+"377","Gibraltar",2011,7.33
+"378","Greece",1946,1.54
+"379","Greece",1950,7.12
+"380","Greece",1951,9.48
+"381","Greece",1952,27.27
+"382","Greece",1956,6.69
+"383","Greece",1958,13.88
+"384","Greece",1961,7.27
+"385","Greece",1963,5.98
+"386","Greece",1964,4.39
+"387","Greece",1974,15.79
+"388","Greece",1977,13.58
+"389","Greece",1981,8.4
+"390","Greece",1985,7.08
+"391","Greece",1989,4.37
+"392","Greece",1989,3.94
+"393","Greece",1990,3.97
+"394","Greece",1993,7.57
+"395","Greece",1996,9.45
+"396","Greece",2000,6.78
+"397","Greenland",2002,3.43
+"398","Greenland",2005,1.4
+"399","Greenland",2009,2.26
+"400","Grenada",1962,6.13
+"401","Grenada",1967,15.42
+"402","Grenada",1972,27.86
+"403","Grenada",1976,7.47
+"404","Grenada",1984,32.28
+"405","Grenada",1990,9.71
+"406","Grenada",1995,18.32
+"407","Grenada",1999,33.1
+"408","Grenada",2003,4.35
+"409","Grenada",2008,21.74
+"410","Guatemala",1999,12.96
+"411","Guatemala",2003,9.95
+"412","Guatemala",2011,9.33
+"413","Guinea-Bissau",1994,12.85
+"414","Guinea-Bissau",2008,13.15
+"415","Guyana",1964,1.12
+"416","Guyana",1968,0.76
+"417","Guyana",1980,0.79
+"418","Guyana",1985,0.97
+"419","Guyana",1992,1.17
+"420","Guyana",1997,1.12
+"421","Guyana",2001,1.15
+"422","Guyana",2006,1.08
+"423","Guyana",2011,0.81
+"424","Honduras",1971,2.62
+"425","Honduras",1980,2.4
+"426","Honduras",1981,0.91
+"427","Honduras",1985,1.34
+"428","Honduras",1989,2.62
+"429","Honduras",1993,2.13
+"430","Honduras",1997,3.73
+"431","Honduras",2001,2.41
+"432","Honduras",2005,4.08
+"433","Honduras",2009,2.58
+"434","Hungary",1990,13.75
+"435","Hungary",1994,16.18
+"436","Hungary",1998,10.88
+"437","Hungary",2002,7.3
+"438","Hungary",2006,5.13
+"439","Hungary",2010,11.67
+"440","Iceland",1946,1.61
+"441","Iceland",1949,6.75
+"442","Iceland",1953,8
+"443","Iceland",1959,13.57
+"444","Iceland",1963,3.07
+"445","Iceland",1967,2.8
+"446","Iceland",1971,2.34
+"447","Iceland",1974,2.67
+"448","Iceland",1978,2.78
+"449","Iceland",1979,2.67
+"450","Iceland",1983,3.72
+"451","Iceland",1987,2.31
+"452","Iceland",1991,2.79
+"453","Iceland",1995,1.98
+"454","Iceland",1999,1.06
+"455","Iceland",2003,1.85
+"456","Iceland",2007,3.49
+"457","Iceland",2009,2.58
+"458","India",1952,22.69
+"459","India",1957,21.76
+"460","India",1962,21.62
+"461","India",1967,11.09
+"462","India",1971,18.69
+"463","India",1977,10.67
+"464","India",1980,19.82
+"465","India",1984,22.72
+"466","India",1989,8.57
+"467","India",1991,7.51
+"468","India",1996,7.89
+"469","India",1998,9.33
+"470","India",2004,4.53
+"471","India",2009,7.83
+"472","Indonesia",1955,1.54
+"473","Indonesia",1999,3.54
+"474","Indonesia",2004,4.45
+"475","Indonesia",2009,6.68
+"476","Iraq",2005,4.4
+"477","Iraq",2010,5.17
+"478","Ireland",1948,5.59
+"479","Ireland",1951,2.6
+"480","Ireland",1954,2.35
+"481","Ireland",1957,4.4
+"482","Ireland",1961,4.46
+"483","Ireland",1965,2.17
+"484","Ireland",1969,5.38
+"485","Ireland",1973,2.4
+"486","Ireland",1977,4.91
+"487","Ireland",1982,1.69
+"488","Ireland",1982,2.74
+"489","Ireland",1987,5.14
+"490","Ireland",1989,3.84
+"491","Ireland",1992,3.1
+"492","Ireland",1997,6.55
+"493","Ireland",2002,6.62
+"494","Ireland",2007,5.85
+"495","Ireland",2011,8.69
+"496","Israel",1949,2.62
+"497","Israel",1951,0.7
+"498","Israel",1955,1.26
+"499","Israel",1959,1.12
+"500","Israel",1961,0.64
+"501","Israel",1965,0.84
+"502","Israel",1969,0.72
+"503","Israel",1973,2.86
+"504","Israel",1977,2.69
+"505","Israel",1981,2.98
+"506","Israel",1984,2.17
+"507","Israel",1988,2.53
+"508","Israel",1992,2.22
+"509","Israel",1996,1.65
+"510","Israel",1999,2.22
+"511","Israel",2003,2.53
+"512","Israel",2006,2.49
+"513","Israel",2009,1.61
+"514","Italy",1948,3.64
+"515","Italy",1953,3.68
+"516","Italy",1958,2.74
+"517","Italy",1963,2.58
+"518","Italy",1968,2.66
+"519","Italy",1972,2.25
+"520","Italy",1976,2.75
+"521","Italy",1979,2.69
+"522","Italy",1983,2.57
+"523","Italy",1987,2.52
+"524","Italy",1992,2.51
+"525","Italy",1994,7.81
+"526","Italy",1996,6.91
+"527","Italy",2001,10.22
+"528","Italy",2006,3.61
+"529","Italy",2008,5.73
+"530","Jamaica",1949,7.83
+"531","Jamaica",1955,5.73
+"532","Jamaica",1959,9.23
+"533","Jamaica",1962,7.17
+"534","Jamaica",1967,11.5
+"535","Jamaica",1972,13.3
+"536","Jamaica",1976,21.5
+"537","Jamaica",1980,26.1
+"538","Jamaica",1983,8.72
+"539","Jamaica",1989,18.35
+"540","Jamaica",1993,26.35
+"541","Jamaica",1997,25
+"542","Jamaica",2002,4.32
+"543","Jamaica",2007,4.82
+"544","Jamaica",2011,13.33
+"545","Japan",1946,5.1
+"546","Japan",1947,3.95
+"547","Japan",1949,9.53
+"548","Japan",1952,3.45
+"549","Japan",1953,3.73
+"550","Japan",1955,4.13
+"551","Japan",1958,3.58
+"552","Japan",1960,6.23
+"553","Japan",1963,5.15
+"554","Japan",1967,6.46
+"555","Japan",1969,9.02
+"556","Japan",1972,7
+"557","Japan",1976,7.44
+"558","Japan",1979,4
+"559","Japan",1980,6.59
+"560","Japan",1983,4.27
+"561","Japan",1986,7.22
+"562","Japan",1990,6.73
+"563","Japan",1993,6.36
+"564","Japan",1996,10.67
+"565","Japan",2000,11.49
+"566","Japan",2003,8.52
+"567","Japan",2005,15.63
+"568","Japan",2009,15.11
+"569","South Korea",1988,7.99
+"570","South Korea",1992,10.87
+"571","South Korea",1996,10.3
+"572","South Korea",2000,13.38
+"573","South Korea",2004,12.11
+"574","Kosova",2001,1.02
+"575","Kosova",2004,1.78
+"576","Kosova",2007,4.4
+"577","Kosova",2010,3.33
+"578","Kyrgystan",2010,12.83
+"579","Latvia",1993,4.14
+"580","Latvia",1995,5.18
+"581","Latvia",1998,4.66
+"582","Latvia",2002,7.28
+"583","Latvia",2006,4.77
+"584","Latvia",2010,2.8
+"585","Latvia",2011,2.76
+"586","Lesotho",1965,14.18
+"587","Lesotho",1970,8.7
+"588","Lesotho",1993,23.99
+"589","Lesotho",1998,32.46
+"590","Lesotho",2002,8.17
+"591","Lesotho",2007,NA
+"592","Liberia",2011,11.14
+"593","Liechtenstein",2005,1.54
+"594","Liechtenstein",2009,7.41
+"595","Lithuania",1992,9.61
+"596","Lithuania",1996,15.17
+"597","Lithuania",2000,10.42
+"598","Lithuania",2004,5.03
+"599","Lithuania",2008,11.14
+"600","Luxembourg",1945,3.56
+"601","Luxembourg",1948,1.32
+"602","Luxembourg",1951,1.32
+"603","Luxembourg",1954,3.95
+"604","Luxembourg",1959,1.59
+"605","Luxembourg",1964,3.54
+"606","Luxembourg",1968,2.21
+"607","Luxembourg",1974,1.83
+"608","Luxembourg",1979,5.17
+"609","Luxembourg",1984,2.99
+"610","Luxembourg",1989,5.03
+"611","Luxembourg",1994,4.67
+"612","Luxembourg",1999,3.22
+"613","Luxembourg",2004,3.36
+"614","Luxembourg",2009,4.22
+"615","Macedonia",1994,34.52
+"616","Macedonia",1998,15.51
+"617","Macedonia",2002,9.06
+"618","Macedonia",2006,5.16
+"619","Macedonia",2011,5.7
+"620","Malaysia",2008,8.35
+"621","Malta",1945,11.61
+"622","Malta",1947,3.06
+"623","Malta",1950,3.97
+"624","Malta",1951,2.29
+"625","Malta",1953,6.87
+"626","Malta",1955,2.74
+"627","Malta",1962,6.3
+"628","Malta",1966,7.29
+"629","Malta",1971,1.06
+"630","Malta",1976,0.77
+"631","Malta",1981,3.23
+"632","Malta",1987,0.34
+"633","Malta",1992,1.52
+"634","Malta",1996,1.37
+"635","Malta",1998,1.77
+"636","Malta",2003,1.81
+"637","Malta",2008,1.44
+"638","Mauritius",1976,6.95
+"639","Mauritius",1982,25.37
+"640","Mauritius",1983,16.81
+"641","Mauritius",1987,19.34
+"642","Mauritius",1991,29.95
+"643","Mauritius",1995,22.93
+"644","Mauritius",2000,28.64
+"645","Mauritius",2010,12.96
+"646","Mexico",1997,6.77
+"647","Mexico",2000,6.7
+"648","Mexico",2003,4.47
+"649","Mexico",2006,6.34
+"650","Mexico",2009,10.46
+"651","Moldova",1994,9.49
+"652","Moldova",1998,10.65
+"653","Moldova",2001,16.34
+"654","Moldova",2005,9.13
+"655","Moldova",2009,2.94
+"656","Moldova",2010,3.65
+"657","Monaco",1998,29.1
+"658","Monaco",2003,29.05
+"659","Monaco",2008,32.27
+"660","Montenegro",2002,4.2
+"661","Montenegro",2006,2.39
+"662","Montenegro",2009,6.64
+"663","Morocco",2011,5.22
+"664","Mongolia",1992,27.36
+"665","Mongolia",1996,14.81
+"666","Mongolia",2000,33.25
+"667","Mozambique",1994,7.78
+"668","Mozambique",1999,7.39
+"669","Mozambique",2004,5.01
+"670","Mozambique",2009,2.51
+"671","Myanmar",1990,22.13
+"672","Namibia",1989,0.93
+"673","Namibia",1994,0.74
+"674","Namibia",1999,0.69
+"675","Namibia",2004,0.94
+"676","Namibia",2009,1.09
+"677","Nepal",1999,16.34
+"678","Netherlands",1946,1.1
+"679","Netherlands",1948,1.27
+"680","Netherlands",1952,1.56
+"681","Netherlands",1956,0.98
+"682","Netherlands",1959,1.64
+"683","Netherlands",1963,1.3
+"684","Netherlands",1967,1.6
+"685","Netherlands",1971,1.73
+"686","Netherlands",1972,1.19
+"687","Netherlands",1977,1.52
+"688","Netherlands",1981,1.3
+"689","Netherlands",1982,1.16
+"690","Netherlands",1986,1.67
+"691","Netherlands",1989,0.9
+"692","Netherlands",1994,1.08
+"693","Netherlands",1998,1.28
+"694","Netherlands",2002,0.88
+"695","Netherlands",2003,1.05
+"696","Netherlands",2006,1.03
+"697","Netherlands",2010,0.81
+"698","New Zealand",1946,1.09
+"699","New Zealand",1949,5.18
+"700","New Zealand",1951,8.41
+"701","New Zealand",1954,11.57
+"702","New Zealand",1957,6.38
+"703","New Zealand",1960,9.31
+"704","New Zealand",1963,8.6
+"705","New Zealand",1966,12.44
+"706","New Zealand",1969,8.87
+"707","New Zealand",1972,12.06
+"708","New Zealand",1975,12.93
+"709","New Zealand",1978,15.55
+"710","New Zealand",1981,16.63
+"711","New Zealand",1984,15.4
+"712","New Zealand",1987,8.89
+"713","New Zealand",1990,17.24
+"714","New Zealand",1993,18.19
+"715","New Zealand",1996,3.43
+"716","New Zealand",1999,2.97
+"717","New Zealand",2002,2.37
+"718","New Zealand",2005,1.13
+"719","New Zealand",2008,3.84
+"720","New Zealand",2011,2.38
+"721","Nicaragua",1990,2.6
+"722","Nicaragua",1996,2.58
+"723","Nicaragua",2001,5.07
+"724","Nicaragua",2006,NA
+"725","Nicaragua",2011,6.41
+"726","Niger",2011,2.83
+"727","Norway",1949,9.23
+"728","Norway",1953,4.07
+"729","Norway",1957,3.64
+"730","Norway",1961,3.06
+"731","Norway",1965,4.23
+"732","Norway",1969,3.81
+"733","Norway",1973,5.03
+"734","Norway",1977,5.93
+"735","Norway",1981,4.94
+"736","Norway",1985,4.75
+"737","Norway",1989,3.67
+"738","Norway",1993,3.95
+"739","Norway",1997,3.44
+"740","Norway",2001,3.22
+"741","Norway",2005,2.67
+"742","Norway",2009,3.01
+"743","Paraguay",1989,8.46
+"744","Paraguay",1993,6.27
+"745","Paraguay",1998,3.46
+"746","Paraguay",2003,8.5
+"747","Paraguay",2008,5.81
+"748","Peru",1980,12.63
+"749","Peru",1985,8.23
+"750","Peru",1990,4.18
+"751","Peru",2001,8.87
+"752","Papua New Guinea",1977,14.24
+"753","Papua New Guinea",1982,23.09
+"754","Papua New Guinea",1987,32.97
+"755","Papua New Guinea",1992,27.74
+"756","Papua New Guinea",1997,23.99
+"757","Papua New Guinea",2002,NA
+"758","Philippines",1987,6.97
+"759","Philippines",1992,7.64
+"760","Philippines",1995,7.59
+"761","Philippines",1998,25.16
+"762","Philippines",2001,NA
+"763","Poland",1991,3.62
+"764","Poland",1993,17.81
+"765","Poland",1997,10.63
+"766","Poland",2001,6.33
+"767","Poland",2005,6.67
+"768","Poland",2007,4.67
+"769","Poland",2011,5.95
+"770","Portugal",1976,3.68
+"771","Portugal",1979,3.74
+"772","Portugal",1980,3.93
+"773","Portugal",1983,3.04
+"774","Portugal",1985,3.63
+"775","Portugal",1987,6.12
+"776","Portugal",1991,6.09
+"777","Portugal",1995,4.6
+"778","Portugal",1999,4.9
+"779","Portugal",2002,4.64
+"780","Portugal",2005,5.75
+"781","Portugal",2009,5.63
+"782","Portugal",2011,5.68
+"783","Romania",1990,0.9
+"784","Romania",1992,6.81
+"785","Romania",1996,6.34
+"786","Romania",2000,8.56
+"787","Romania",2004,3.74
+"788","Romania",2008,3.32
+"789","Russia",1995,12.97
+"790","Russia",1999,5.05
+"791","Russia",2003,12.01
+"792","Russia",2007,4.33
+"793","Russia",2011,3.4
+"794","St.Kitts and Nevis",1971,26.71
+"795","St.Kitts and Nevis",1975,16.96
+"796","St.Kitts and Nevis",1980,5.91
+"797","St.Kitts and Nevis",1984,20.95
+"798","St.Kitts and Nevis",1989,15.94
+"799","St.Kitts and Nevis",1993,7.92
+"800","St.Kitts and Nevis",1995,22.04
+"801","St.Kitts and Nevis",2000,28.46
+"802","St.Kitts and Nevis",2004,19.68
+"803","St.Kitts and Nevis",2010,12.04
+"804","St. Lucia",1974,4.74
+"805","St. Lucia",1979,14.38
+"806","St. Lucia",1982,24.07
+"807","St. Lucia",1987,6.15
+"808","St. Lucia",1992,7.96
+"809","St. Lucia",1997,31.56
+"810","St. Lucia",2001,23.66
+"811","St. Lucia",2006,13.12
+"812","St. Lucia",2011,12.83
+"813","St Vincent and the Grenadines",1961,16.04
+"814","St Vincent and the Grenadines",1966,6.47
+"815","St Vincent and the Grenadines",1967,12.89
+"816","St Vincent and the Grenadines",1972,4.48
+"817","St Vincent and the Grenadines",1974,8.43
+"818","St Vincent and the Grenadines",1979,25.2
+"819","St Vincent and the Grenadines",1984,14.99
+"820","St Vincent and the Grenadines",1989,32.1
+"821","St Vincent and the Grenadines",1994,21.21
+"822","St Vincent and the Grenadines",1998,7.98
+"823","St Vincent and the Grenadines",2001,22.32
+"824","St Vincent and the Grenadines",2005,24.71
+"825","St Vincent and the Grenadines",2010,2.12
+"826","San Marino",1998,0.88
+"827","San Marino",2001,0.85
+"828","San Marino",2006,2.1
+"829","San Marino",2008,3.81
+"830","Sao Tome e Principe",1991,4.66
+"831","Sao Tome e Principe",1994,5.81
+"832","Sao Tome e Principe",1998,4.58
+"833","Sao Tome e Principe",2002,4.55
+"834","Sao Tome e Principe",2006,6.12
+"835","Sao Tome e Principe",2010,6.29
+"836","Senegal",1978,1.12
+"837","Senegal",1983,10.43
+"838","Senegal",1988,12.77
+"839","Senegal",1993,11.19
+"840","Senegal",1998,12.4
+"841","Senegal",2001,19.28
+"842","Senegal",2007,13.54
+"843","Serbia",2003,6.19
+"844","Serbia",2007,4.87
+"845","Serbia",2008,1.49
+"846","Slovakia",1990,3.54
+"847","Slovakia",1992,11.15
+"848","Slovakia",1994,5.94
+"849","Slovakia",1998,2.9
+"850","Slovakia",2002,6.97
+"851","Slovakia",2006,5.53
+"852","Slovakia",2010,7.46
+"853","Slovenia",1990,2.94
+"854","Slovenia",1992,5.33
+"855","Slovenia",1996,3.59
+"856","Slovenia",2000,1.51
+"857","Slovenia",2004,4.79
+"858","Slovenia",2008,3.89
+"859","Slovenia",2011,3.64
+"860","South Africa",1994,0.36
+"861","South Africa",1999,0.28
+"862","South Africa",2004,0.26
+"863","South Africa",2009,0.3
+"864","Spain",1977,10.05
+"865","Spain",1979,10.56
+"866","Spain",1982,8.02
+"867","Spain",1986,7.19
+"868","Spain",1989,9.35
+"869","Spain",1993,7.08
+"870","Spain",1996,5.36
+"871","Spain",2000,6.1
+"872","Spain",2004,4.25
+"873","Spain",2008,4.49
+"874","Spain",2011,6.93
+"875","Sri Lanka",1952,10.46
+"876","Sri Lanka",1956,17.91
+"877","Sri Lanka",1960,9.71
+"878","Sri Lanka",1960,17.23
+"879","Sri Lanka",1965,5.16
+"880","Sri Lanka",1970,25.48
+"881","Sri Lanka",1977,29.4
+"882","Sri Lanka",2000,2.65
+"883","Sri Lanka",2001,3.86
+"884","Sri Lanka",2004,2.8
+"885","Sri Lanka",2010,4.33
+"886","Surinam",1967,12.27
+"887","Surinam",1969,9.37
+"888","Surinam",1973,6.45
+"889","Surinam",1977,8.91
+"890","Surinam",1987,8.42
+"891","Surinam",1991,4.63
+"892","Surinam",1996,6.75
+"893","Surinam",2000,13.7
+"894","Surinam",2005,7.38
+"895","Surinam",2010,8.94
+"896","Sweden",1948,3.51
+"897","Sweden",1952,2.19
+"898","Sweden",1956,2.43
+"899","Sweden",1958,2.16
+"900","Sweden",1960,2.05
+"901","Sweden",1964,2.27
+"902","Sweden",1968,3.03
+"903","Sweden",1970,1.61
+"904","Sweden",1973,1.57
+"905","Sweden",1976,1.23
+"906","Sweden",1979,1.27
+"907","Sweden",1982,2.4
+"908","Sweden",1985,1.35
+"909","Sweden",1988,2.45
+"910","Sweden",1991,2.86
+"911","Sweden",1994,1.18
+"912","Sweden",1998,0.97
+"913","Sweden",2002,1.52
+"914","Sweden",2006,3.02
+"915","Sweden",2010,1.25
+"916","Switzerland",1947,3.41
+"917","Switzerland",1951,2.46
+"918","Switzerland",1955,1.7
+"919","Switzerland",1959,1.97
+"920","Switzerland",1963,1.15
+"921","Switzerland",1967,1.47
+"922","Switzerland",1971,2.47
+"923","Switzerland",1975,3.09
+"924","Switzerland",1979,1.73
+"925","Switzerland",1983,2.94
+"926","Switzerland",1987,3.78
+"927","Switzerland",1991,2.6
+"928","Switzerland",1995,4.37
+"929","Switzerland",1999,3.17
+"930","Switzerland",2003,2.47
+"931","Switzerland",2007,2.56
+"932","Switzerland",2011,3.76
+"933","Taiwan",1998,7.05
+"934","Taiwan",2008,16.89
+"935","Thailand",1992,4.88
+"936","Thailand",1992,5.9
+"937","Thailand",1995,5.32
+"938","Thailand",1996,2.74
+"939","Thailand",2001,9.58
+"940","Thailand",2011,4.92
+"941","Timor Leste",2007,4.48
+"942","Togo",2007,16.46
+"943","Trinidad & Tobago",1961,9.04
+"944","Trinidad & Tobago",1966,12.18
+"945","Trinidad & Tobago",1971,14.46
+"946","Trinidad & Tobago",1976,9.81
+"947","Trinidad & Tobago",1981,21.61
+"948","Trinidad & Tobago",1986,24.59
+"949","Trinidad & Tobago",1991,17.09
+"950","Trinidad & Tobago",1995,15.32
+"951","Trinidad & Tobago",2000,2.04
+"952","Trinidad & Tobago",2001,3.16
+"953","Trinidad & Tobago",2002,3.71
+"954","Trinidad & Tobago",2007,20.81
+"955","Trinidad & Tobago",2011,10.55
+"956","Tunisia",2007,11.76
+"957","Tunisia",2011,7.4
+"958","Turkey",1983,6.85
+"959","Turkey",1987,20.74
+"960","Turkey",1991,11.29
+"961","Turkey",1995,7.27
+"962","Turkey",1999,14.57
+"963","Turkey",2002,26.4
+"964","Turkey",2007,NA
+"965","Turkey",2011,7.4
+"966","Uganda",1961,9.07
+"967","Uganda",1980,10.59
+"968","Ukraine",1994,15.09
+"969","Ukraine",1998,8.42
+"970","Ukraine",2002,8.16
+"971","Ukraine",2006,8.56
+"972","Ukraine",2007,3.59
+"973","United Kingdom",1945,11.62
+"974","United Kingdom",1950,6.91
+"975","United Kingdom",1951,2.61
+"976","United Kingdom",1955,4.13
+"977","United Kingdom",1959,7.3
+"978","United Kingdom",1964,8.88
+"979","United Kingdom",1966,8.44
+"980","United Kingdom",1970,6.59
+"981","United Kingdom",1974,14.96
+"982","United Kingdom",1979,11.58
+"983","United Kingdom",1983,17.45
+"984","United Kingdom",1987,14.95
+"985","United Kingdom",1992,13.55
+"986","United Kingdom",1997,16.51
+"987","United Kingdom",2001,17.77
+"988","United Kingdom",2005,16.73
+"989","United Kingdom",2010,15.1
+"990","United States",1946,2.27
+"991","United States",1948,7
+"992","United States",1950,3.96
+"993","United States",1952,1.17
+"994","United States",1954,0.58
+"995","United States",1956,2.62
+"996","United States",1958,8.33
+"997","United States",1960,4.92
+"998","United States",1962,7.42
+"999","United States",1964,9.92
+"1000","United States",1966,5.69
+"1001","United States",1968,4.8
+"1002","United States",1970,3.62
+"1003","United States",1972,2.73
+"1004","United States",1974,7.9
+"1005","United States",1976,9.67
+"1006","United States",1978,9.15
+"1007","United States",1980,4.59
+"1008","United States",1982,5.71
+"1009","United States",1984,5.39
+"1010","United States",1986,4.02
+"1011","United States",1988,5.55
+"1012","United States",1990,7.89
+"1013","United States",1992,7.08
+"1014","United States",1994,1.31
+"1015","United States",1996,3.21
+"1016","United States",1998,2.71
+"1017","United States",2000,3.15
+"1018","United States",2002,2
+"1019","United States",2004,2.99
+"1020","United States",2006,1.57
+"1021","United States",2008,4.01
+"1022","United States",2010,3.14
+"1023","Uruguay",1946,1.05
+"1024","Uruguay",1950,1.11
+"1025","Uruguay",1954,0.86
+"1026","Uruguay",1958,1.65
+"1027","Uruguay",1962,1.62
+"1028","Uruguay",1966,1.41
+"1029","Uruguay",1971,0.52
+"1030","Uruguay",1984,0.39
+"1031","Uruguay",1989,0.54
+"1032","Uruguay",1999,0.6
+"1033","Uruguay",2004,1.32
+"1034","Uruguay",2009,1.1
+"1035","Venezuela",1963,3.36
+"1036","Venezuela",1968,4.85
+"1037","Venezuela",1973,5.3
+"1038","Venezuela",1978,4.18
+"1039","Venezuela",1983,5.34
+"1040","Venezuela",1988,5.42
+"1041","Venezuela",1993,5.35
+"1042","Venezuela",1998,8.38
+"1043","Venezuela",2000,8.34
+"1044","Venezuela",2010,9.6
+"1045","Zambia",1964,14.88
+"1046","Zambia",1968,3.74
+"1047","Zambia",1991,8.54
+"1048","Zambia",1996,21.29
+"1049","Zambia",2001,16.01
+"1050","Zambia",2006,8.32
+"1051","Zambia",2011,3.39
