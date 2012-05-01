@@ -2,7 +2,8 @@
 ## 121 Countries, 1945-2011
 
 Christopher Gandrud </br>
-Updated 24 March 2012
+Data Updated 24 March 2012
+README Updated 1 May 2012
 
 ## What is it?
 
@@ -13,6 +14,21 @@ This is a <strong>.csv</strong> formatted data set of the Least Squares Index of
 There is currently no complete and recently updated Gallagher Index data freely available in a format that is easy to do statistical analysis on. The data on Michael Gallagher's <a href = http://www.tcd.ie/Political_Science/staff/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf>website</a> has been recently updated (the one I used was from 21 February 2012). However it is only available in PDF format; not exactly the easiest format to merge into an R or Stata file. 
 
 So, after going through the somewhat painstaking work of entering all of this data into a .csv file (and filling in some holes with Carey and Hix's data) I decided to make my efforts publicly available. Hopefully, this will free up some research time for more productive endeavours than copying and pasting data from a PDF file.
+
+## Import into R
+
+To import the file directly into **R** simply use the following set of commands:
+
+```r
+library(RCurl)
+library(foreign)
+
+url <- "https://raw.github.com/christophergandrud/Disproportionality_Data/master/Disproportionality.csv"
+
+disproportionality.data <- getURL(url)                
+                            
+disproportionality.data <- read.csv(textConnection(disproportionality.data))
+```
 
 ## More details on the Gallagher Index
 
