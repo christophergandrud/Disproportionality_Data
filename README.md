@@ -2,8 +2,10 @@
 ## 121 Countries, 1945-2011
 
 Christopher Gandrud </br>
-Data Updated 24 March 2012
-README Updated 1 May 2012
+
+Data Updated: 24 March 2012
+
+README Updated: 1 May 2012
 
 ## What is it?
 
