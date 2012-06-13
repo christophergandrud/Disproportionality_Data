@@ -50,7 +50,7 @@ Data is for national overall disproportionality.
 I did not include Northern Ireland, Scotland, Wales, Turkish Cyprus, or Palestine.
 
 ### All data is from Gallagher's PDF mentioned with the following exceptions.  
-Data for these countries was taken from Hix and Carey (see their notes for further details):
+Data for these countries was taken from Hix and Carey (see their [notes](http://www.dartmouth.edu/~jcarey/Data_Archive.html) for further details):
 
 Benin  
 
