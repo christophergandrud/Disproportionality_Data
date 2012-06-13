@@ -37,11 +37,11 @@ The Least Squares or Gallagher Index of electoral disproportionality basically u
 
 For more information see: 
 
-Gallagher, Michael. 1991. “Proportionality, Disproportionality, and Electoral Systems.” Electoral Studies 10(1): 33–41.
+> Gallagher, Michael. 1991. “Proportionality, Disproportionality, and Electoral Systems.” Electoral Studies 10(1): 33–41.
 
-or
+*or*
 
-Carey, John M, and Simon Hix. 2011. “The Electoral Sweet Spot: Low-Magnitude Proportional Electoral Systems.” American Journal of Political Science 55(2): 383–397.
+> Carey, John M, and Simon Hix. 2011. “The Electoral Sweet Spot: Low-Magnitude Proportional Electoral Systems.” American Journal of Political Science 55(2): 383–397.
 
 ## More details on the data.
 
