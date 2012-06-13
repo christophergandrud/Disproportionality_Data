@@ -8,11 +8,11 @@ Data Updated: 24 March 2012
 
 ## What is it?
 
-This is a <strong>.csv</strong> formatted data set of the Least Squares Index of electoral disproportionality for 121 countries between 1945 and 2011. The Least Squares Index is also commonly referred to as the Gallagher Index. The data set combines Michael Gallagher's recently updated data (<a href = http://www.tcd.ie/Political_Science/staff/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf>here</a>) with some holes (see below) filled in with data made available by John Carey and Simon Hix (<a href = http://www.dartmouth.edu/~jcarey/Data_Archive.html>here</a>).
+This is a <strong>.csv</strong> formatted data set of the Least Squares Index of electoral disproportionality for 121 countries between 1945 and 2011. The Least Squares Index is also commonly referred to as the Gallagher Index. The data set combines Michael Gallagher's recently updated data ([here](http://www.tcd.ie/Political_Science/staff/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf)) with some holes (see below) filled in with data made available by John Carey and Simon Hix ([here](http://www.dartmouth.edu/~jcarey/Data_Archive.html)).
 
 ## Why did I make this?
 
-There is currently no complete and recently updated Gallagher Index data freely available in a format that is easy to do statistical analysis on. The data on Michael Gallagher's <a href = http://www.tcd.ie/Political_Science/staff/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf>website</a> has been recently updated (the one I used was from 21 February 2012). However it is only available in PDF format; not exactly the easiest format to merge into an R or Stata file. 
+There is currently no complete and recently updated Gallagher Index data freely available in a format that is easy to do statistical analysis on. The data on Michael Gallagher's [website](http://www.tcd.ie/Political_Science/staff/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf) has been recently updated (the one I used was from 21 February 2012). However it is only available in PDF format; not exactly the easiest format to merge into an R or Stata file. 
 
 So, after going through the somewhat painstaking work of entering all of this data into a .csv file (and filling in some holes with Carey and Hix's data) I decided to make my efforts publicly available. Hopefully, this will free up some research time for more productive endeavours than copying and pasting data from a PDF file.
 
@@ -38,8 +38,6 @@ The Least Squares or Gallagher Index of electoral disproportionality basically u
 For more information see: 
 
 > Gallagher, Michael. 1991. “Proportionality, Disproportionality, and Electoral Systems.” Electoral Studies 10(1): 33–41.
-
-*or*
 
 > Carey, John M, and Simon Hix. 2011. “The Electoral Sweet Spot: Low-Magnitude Proportional Electoral Systems.” American Journal of Political Science 55(2): 383–397.
 
@@ -114,7 +112,7 @@ United Kingdom uses October Election for 1974 (previous election was in February
 The United States data is for House elections. I did not included data on executive disproportionality, though Gallagher includes this in his PDF file.
  
 
-### See Gallagher and Carey & Hix for further notes.
+### See [Gallagher](http://www.tcd.ie/Political_Science/staff/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf) and [Carey & Hix](http://www.dartmouth.edu/~jcarey/Data_Archive.html) for further notes.
 
 
 
