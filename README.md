@@ -1,11 +1,10 @@
 # Gallagher Electoral Disproportionality Data
 ## 121 Countries, 1945-2011
 
-Christopher Gandrud </br>
+Christopher Gandrud  
 
 Data Updated: 24 March 2012
 
-README Updated: 1 May 2012
 
 ## What is it?
 
@@ -52,42 +51,68 @@ Data is for national overall disproportionality.
 
 I did not include Northern Ireland, Scotland, Wales, Turkish Cyprus, or Palestine.
 
-### All data is from Gallagher's PDF mentioned with the following exceptions. </br>
+### All data is from Gallagher's PDF mentioned with the following exceptions.  
 Data for these countries was taken from Hix and Carey (see their notes for further details):
 
-Benin </br>
-Dominican Republic </br>
-Ecuador </br>
-Guatemala before 2011 </br>
-India before 2004 </br>
-Indonesia for 1999 </br>
-Macedonia 2004 </br>
-Mauritius before 2010 </br>
-Mongolia </br>
-Nepal </br>
-Papua New Guinea </br>
-Philippines </br>
-South Korea before 2004 </br>
-Sri Lanka before 2000 </br> 
-Taiwan 1998 </br>
-Thailand before 2011 </br>
-Turkey before 2003 </br>
-Ukraine before 2003 </br>
-Venezuela before 2001 </br>
+Benin  
+
+Dominican Republic  
+
+Ecuador  
+
+Guatemala before 2011  
+
+India before 2004  
+
+Indonesia for 1999  
+
+Macedonia 2004  
+
+Mauritius before 2010  
+
+Mongolia  
+
+Nepal  
+
+Papua New Guinea  
+
+Philippines  
+
+South Korea before 2004  
+
+Sri Lanka before 2000   
+
+Taiwan 1998  
+
+Thailand before 2011  
+
+Turkey before 2003  
+
+Ukraine before 2003  
+
+Venezuela before 2001  
+
 
 ### For years when there were two elections in one country I kept the latter one. This included:
-Fiji uses September election for 1977 (previous election was in September) </br>
-France uses November election for 1946 (previous election was in June) </br>
-Greece uses November election for 1989 (previous election was in June) </br>
-Iceland uses October election for 1959 (previous election was in June) </br>
-Ireland uses November Election for 1983 (previous election was in February) </br>
-Moldova uses July elections for 2009 (previous election was in April) </br>
-St Lucia uses April 30 for 1987 (previous election was in April 6) </br>
-United Kingdom uses October Election for 1974 (previous election was in February) 
 
-<br>
+Fiji uses September election for 1977 (previous election was in September)  
+
+France uses November election for 1946 (previous election was in June)  
+
+Greece uses November election for 1989 (previous election was in June)  
+
+Iceland uses October election for 1959 (previous election was in June)  
+
+Ireland uses November Election for 1983 (previous election was in February)  
+
+Moldova uses July elections for 2009 (previous election was in April)  
+
+St Lucia uses April 30 for 1987 (previous election was in April 6)  
+
+United Kingdom uses October Election for 1974 (previous election was in February)  
+
 The United States data is for House elections. I did not included data on executive disproportionality, though Gallagher includes this in his PDF file.
-</br>
+ 
 
 ### See Gallagher and Carey & Hix for further notes.
 
