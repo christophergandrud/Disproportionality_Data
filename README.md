@@ -3,7 +3,7 @@
 
 Christopher Gandrud  
 
-Data Updated: 24 March 2012
+Data Updated: 4 October 2012
 
 
 ## What is it?
@@ -31,6 +31,8 @@ disproportionality.data <- getURL(url)
 disproportionality.data <- read.csv(textConnection(disproportionality.data))
 ```
 
+If this code produces an `SSL certificate problem` error, please see [this blog post](http://christophergandrud.blogspot.com/2012/06/update-to-data-on-github-post-solution.html) for a solution.
+
 ## More details on the Gallagher Index
 
 The Least Squares or Gallagher Index of electoral disproportionality basically uses the standard least squares method for comparing the relationship between two samples. It compares parties' votes to the legislative seats they are given. Higher numbers on the Gallagher Index indicate that there is a greater disparity between votes and seats, i.e. elections have produced more disproportional outcomes. A Gallagher score of 0 would indicated that the election produced perfectly proportional outcomes.
@@ -40,6 +42,12 @@ For more information see:
 > Gallagher, Michael. 1991. “Proportionality, Disproportionality, and Electoral Systems.” Electoral Studies 10(1): 33–41.
 
 > Carey, John M, and Simon Hix. 2011. “The Electoral Sweet Spot: Low-Magnitude Proportional Electoral Systems.” American Journal of Political Science 55(2): 383–397.
+
+### Citation
+
+If you use this data set please cite the two articles by Gallagher and Carey/Hix. It would also be great if you could cite the working paper I created the combined data set for:
+
+> Gandrud, Christopher/ 2012. Two Sword Lengths: Losers' Consent and Violence in National Legislatures. Available at SSRN: <http://ssrn.com/abstract=2044278 or http://dx.doi.org/10.2139/ssrn.2044278>.
 
 ## More details on the data.
 
