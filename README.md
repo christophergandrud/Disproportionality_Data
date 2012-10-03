@@ -43,7 +43,7 @@ For more information see:
 
 > Carey, John M, and Simon Hix. 2011. “The Electoral Sweet Spot: Low-Magnitude Proportional Electoral Systems.” American Journal of Political Science 55(2): 383–397.
 
-### Citation
+## Citation
 
 If you use this data set please cite the two articles by Gallagher and Carey/Hix. It would also be great if you could cite the working paper I created the combined data set for:
 
