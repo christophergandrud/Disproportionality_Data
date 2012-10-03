@@ -47,7 +47,7 @@ For more information see:
 
 If you use this data set please cite the two articles by Gallagher and Carey/Hix. It would also be great if you could cite the working paper I created the combined data set for:
 
-> Gandrud, Christopher/ 2012. Two Sword Lengths: Losers' Consent and Violence in National Legislatures. Available at SSRN: [http://ssrn.com/abstract=2044278 or http://dx.doi.org/10.2139/ssrn.2044278](http://ssrn.com/abstract=2044278 or http://dx.doi.org/10.2139/ssrn.2044278).
+> Gandrud, Christopher/ 2012. Two Sword Lengths: Losers' Consent and Violence in National Legislatures. Available at SSRN: [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2044278](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2044278).
 
 ## More details on the data.
 
