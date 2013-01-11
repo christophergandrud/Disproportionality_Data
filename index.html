@@ -35,9 +35,11 @@
 
 <h2>121 Countries, 1945-2011</h2>
 
+<h2>Current version: v1</h2>
+
 <p>Christopher Gandrud  </p>
 
-<p>Data Updated: 4 October 2012</p>
+<p>Data Updated: 11 January 2013</p>
 
 <h2>What is it?</h2>
 
@@ -51,19 +53,17 @@
 
 <h2>Import into R</h2>
 
-<p>To import the file directly into <strong>R</strong> simply use the following set of commands:</p>
+<p>To import the file directly into <strong>R</strong> simply use the <code>source_GitHubData function. To load the function use the [devtools](https://github.com/hadley/devtools)</code>source_url` command:</p>
 
-<div class="highlight"><pre>library<span class="p">(</span>RCurl<span class="p">)</span>
-library<span class="p">(</span>foreign<span class="p">)</span>
-
-url <span class="o">&lt;-</span> <span class="s">"https://raw.github.com/christophergandrud/Disproportionality_Data/master/Disproportionality.csv"</span>
-
-disproportionality.data <span class="o">&lt;-</span> getURL<span class="p">(</span>url<span class="p">)</span>                
-
-disproportionality.data <span class="o">&lt;-</span> read.csv<span class="p">(</span>textConnection<span class="p">(</span>disproportionality.data<span class="p">))</span>
+<div class="highlight"><pre><span class="c1"># Load source_GitHubData from GitHub Gist</span>
+<span class="c1"># The functions' gist ID is 4466237</span>
+devtools<span class="p">::</span>source_gist<span class="p">(</span><span class="s">"4466237"</span><span class="p">)</span>
 </pre></div>
 
-<p>If this code produces an <code>SSL certificate problem</code> error, please see <a href="http://christophergandrud.blogspot.com/2012/06/update-to-data-on-github-post-solution.html">this blog post</a> for a solution.</p>
+<p>Then use the function to download the disproportionality data:</p>
+
+<div class="highlight"><pre>Data <span class="o">&lt;-</span> source_GitHubData<span class="p">(</span>url <span class="o">=</span> <span class="s">"http://bit.ly/Ss6zDO"</span><span class="p">)</span>
+</pre></div>
 
 <h2>More details on the Gallagher Index</h2>
 
