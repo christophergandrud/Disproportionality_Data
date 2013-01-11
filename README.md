@@ -1,9 +1,10 @@
 # Gallagher Electoral Disproportionality Data
 ## 121 Countries, 1945-2011
+## Current version: v1
 
 Christopher Gandrud  
 
-Data Updated: 4 October 2012
+Data Updated: 11 January 2013
 
 
 ## What is it?
@@ -18,20 +19,19 @@ So, after going through the somewhat painstaking work of entering all of this da
 
 ## Import into R
 
-To import the file directly into **R** simply use the following set of commands:
+To import the file directly into **R** simply use the `source_GitHubData function. To load the function use the [devtools](https://github.com/hadley/devtools) `source_url` command:
 
 ```r
-library(RCurl)
-library(foreign)
-
-url <- "https://raw.github.com/christophergandrud/Disproportionality_Data/master/Disproportionality.csv"
-
-disproportionality.data <- getURL(url)                
-                            
-disproportionality.data <- read.csv(textConnection(disproportionality.data))
+# Load source_GitHubData from GitHub Gist
+# The functions' gist ID is 4466237
+devtools::source_gist("4466237")
 ```
 
-If this code produces an `SSL certificate problem` error, please see [this blog post](http://christophergandrud.blogspot.com/2012/06/update-to-data-on-github-post-solution.html) for a solution.
+Then use the function to download the disproportionality data:
+
+```r
+Data <- source_GitHubData(url = "http://bit.ly/Ss6zDO")
+```
 
 ## More details on the Gallagher Index
 
