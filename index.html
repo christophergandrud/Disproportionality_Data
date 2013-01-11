@@ -55,14 +55,14 @@
 
 <p>To import the file directly into <strong>R</strong> simply use the <code>source_GitHubData function. To load the function use the [devtools](https://github.com/hadley/devtools)</code>source_url` command:</p>
 
-<div class="highlight"><pre><span class="c1"># Load source_GitHubData from GitHub Gist</span>
-<span class="c1"># The functions' gist ID is 4466237</span>
-devtools<span class="p">::</span>source_gist<span class="p">(</span><span class="s">"4466237"</span><span class="p">)</span>
+<div class="highlight"><pre><span class="nl">#</span> <span class="nv">Load</span> <span class="nv">source_GitHubData</span> <span class="nv">from</span> <span class="nv">GitHub</span> <span class="nv">Gist</span>
+<span class="nl">#</span> <span class="nv">The</span> <span class="nv">functions'</span> <span class="nv">gist</span> <span class="nv">ID</span> <span class="nv">is</span> <span class="m">4466237</span>
+<span class="nv">devtools::source_gist</span><span class="gs">(</span><span class="s">"4466237"</span><span class="gs">)</span>
 </pre></div>
 
 <p>Then use the function to download the disproportionality data:</p>
 
-<div class="highlight"><pre>Data <span class="o">&lt;-</span> source_GitHubData<span class="p">(</span>url <span class="o">=</span> <span class="s">"http://bit.ly/Ss6zDO"</span><span class="p">)</span>
+<div class="highlight"><pre><span class="nv">Data</span> <span class="nt">&lt;- source_GitHubData</span><span class="err">(</span><span class="nt">url = "http://bit.ly/Ss6zDO"</span><span class="err">)</span>
 </pre></div>
 
 <h2>More details on the Gallagher Index</h2>
@@ -167,7 +167,17 @@ devtools<span class="p">::</span>source_gist<span class="p">(</span><span class=
       </footer>
     </div>
 
-    
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-985930-4");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
 
   </body>
 </html>
