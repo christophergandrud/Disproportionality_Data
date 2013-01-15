@@ -55,14 +55,14 @@
 
 <p>To import the file directly into <strong>R</strong> simply use the <code>source_GitHubData</code> function. To load the function use the <a href="https://github.com/hadley/devtools">devtools</a> <code>source_url</code> command:</p>
 
-<div class="highlight"><pre><span class="nl">#</span> <span class="nv">Load</span> <span class="nv">source_GitHubData</span> <span class="nv">from</span> <span class="nv">GitHub</span> <span class="nv">Gist</span>
-<span class="nl">#</span> <span class="nv">The</span> <span class="nv">functions'</span> <span class="nv">gist</span> <span class="nv">ID</span> <span class="nv">is</span> <span class="m">4466237</span>
-<span class="nv">devtools::source_gist</span><span class="gs">(</span><span class="s">"4466237"</span><span class="gs">)</span>
+<div class="highlight"><pre><span class="c1"># Load source_GitHubData from GitHub Gist</span>
+<span class="c1"># The functions' gist ID is 4466237</span>
+devtools<span class="p">::</span>source_gist<span class="p">(</span><span class="s">"4466237"</span><span class="p">)</span>
 </pre></div>
 
 <p>Then use the function to download the disproportionality data:</p>
 
-<div class="highlight"><pre><span class="nv">Data</span> <span class="nt">&lt;- source_GitHubData</span><span class="err">(</span><span class="nt">url = "http://bit.ly/Ss6zDO"</span><span class="err">)</span>
+<div class="highlight"><pre>Data <span class="o">&lt;-</span> source_GitHubData<span class="p">(</span>url <span class="o">=</span> <span class="s">"http://bit.ly/Ss6zDO"</span><span class="p">)</span>
 </pre></div>
 
 <h2>More details on the Gallagher Index</h2>
@@ -156,6 +156,8 @@
 <p>The United States data is for House elections. I did not included data on executive disproportionality, though Gallagher includes this in his PDF file.</p>
 
 <h3>See <a href="http://www.tcd.ie/Political_Science/staff/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf">Gallagher</a> and <a href="http://www.dartmouth.edu/%7Ejcarey/Data_Archive.html">Carey &amp; Hix</a> for further notes.</h3>
+
+<hr><p>Disproportionality Data by <a href="https://github.com/christophergandrud/Disproportionality_Data" rel="cc:attributionURL">Christopher Gandrud</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.</p>
       </section>
     </div>
 
