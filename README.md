@@ -19,18 +19,10 @@ So, after going through the somewhat painstaking work of entering all of this da
 
 ## Import into R
 
-To import the file directly into **R** simply use the `source_GitHubData` function. To load the function use the [devtools](https://github.com/hadley/devtools) `source_url` command:
+To import the file directly into **R** simply use the `source_data` function:
 
 ```r
-# Load source_GitHubData from GitHub Gist
-# The functions' gist ID is 4466237
-devtools::source_gist("4466237")
-```
-
-Then use the function to download the disproportionality data:
-
-```r
-Data <- source_GitHubData(url = "http://bit.ly/Ss6zDO")
+Data <- repmis::source_data(url = "http://bit.ly/Ss6zDO")
 ```
 
 ## More details on the Gallagher Index
