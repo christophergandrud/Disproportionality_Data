@@ -1,10 +1,10 @@
 # Gallagher Electoral Disproportionality Data
-## 121 Countries, 1945-2011
-## Current version: v1
+## 121 Countries, 1945-2014
+## Current version: v2
 
 Christopher Gandrud  
 
-Data Updated: 11 January 2013
+Data Updated: 18 January 2015
 
 
 ## What is it?
@@ -13,7 +13,7 @@ This is a <strong>.csv</strong> formatted data set of the Least Squares Index of
 
 ## Why did I make this?
 
-There is currently no complete and recently updated Gallagher Index data freely available in a format that is easy to do statistical analysis on. The data on Michael Gallagher's [website](http://www.tcd.ie/Political_Science/staff/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf) has been recently updated (the one I used was from 21 February 2012). However it is only available in PDF format; not exactly the easiest format to merge into an R or Stata file. 
+There is currently no complete and recently updated Gallagher Index data freely available in a format that is easy to do statistical analysis on. The data on Michael Gallagher's [website](http://www.tcd.ie/Political_Science/staff/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf) has been recently updated (the one I used was from 21 February 2012). However it is only available in PDF format; not exactly the easiest format to merge into an R or Stata file.
 
 So, after going through the somewhat painstaking work of entering all of this data into a .csv file (and filling in some holes with Carey and Hix's data) I decided to make my efforts publicly available. Hopefully, this will free up some research time for more productive endeavours than copying and pasting data from a PDF file.
 
@@ -29,23 +29,17 @@ Data <- repmis::source_data(url = "http://bit.ly/Ss6zDO")
 
 The Least Squares or Gallagher Index of electoral disproportionality basically uses the standard least squares method for comparing the relationship between two samples. It compares parties' votes to the legislative seats they are given. Higher numbers on the Gallagher Index indicate that there is a greater disparity between votes and seats, i.e. elections have produced more disproportional outcomes. A Gallagher score of 0 would indicated that the election produced perfectly proportional outcomes.
 
-For more information see: 
+For more information see:
 
 > Gallagher, Michael. 1991. “Proportionality, Disproportionality, and Electoral Systems.” Electoral Studies 10(1): 33–41.
 
 > Carey, John M, and Simon Hix. 2011. “The Electoral Sweet Spot: Low-Magnitude Proportional Electoral Systems.” American Journal of Political Science 55(2): 383–397.
 
-## Citation
-
-If you use this data set please cite the two articles by Gallagher and Carey/Hix. It would also be great if you could cite the working paper I created the combined data set for:
-
-> Gandrud, Christopher. 2012. Two Sword Lengths: Losers' Consent and Violence in National Legislatures. Available at SSRN: [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2044278](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2044278).
-
 ## More details on the data.
 
 These notes give specific details about how I combined the two data sets into the one .csv file.
 
-Data is for national overall disproportionality. 
+Data is for national overall disproportionality.
 
 I did not include Northern Ireland, Scotland, Wales, Turkish Cyprus, or Palestine.
 
@@ -78,7 +72,7 @@ Philippines
 
 South Korea before 2004  
 
-Sri Lanka before 2000   
+Sri Lanka before 2000
 
 Taiwan 1998  
 
@@ -99,6 +93,8 @@ France uses November election for 1946 (previous election was in June)
 
 Greece uses November election for 1989 (previous election was in June)  
 
+Greece uses June election for 2012 (previous election was in May).
+
 Iceland uses October election for 1959 (previous election was in June)  
 
 Ireland uses November Election for 1983 (previous election was in February)  
@@ -109,19 +105,12 @@ St Lucia uses April 30 for 1987 (previous election was in April 6)
 
 United Kingdom uses October Election for 1974 (previous election was in February)  
 
-The United States data is for House elections. I did not included data on executive disproportionality, though Gallagher includes this in his PDF file.
- 
+The United States data is for House elections. I did not included data on
+executive disproportionality, though Gallagher includes this in his PDF file.
+
 
 ### See [Gallagher](http://www.tcd.ie/Political_Science/staff/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf) and [Carey & Hix](http://www.dartmouth.edu/~jcarey/Data_Archive.html) for further notes.
 
 ----
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Disproportionality Data</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/christophergandrud/Disproportionality_Data" property="cc:attributionName" rel="cc:attributionURL">Christopher Gandrud</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.
-
-
-
-
-
-
-
-

@@ -16,6 +16,7 @@ if (!('rio' %in% installed.packages()[, 1]))
     devtools::install_github('leeper/rio', ref = 'fread')
 library(rio)
 library(countrycode)
+library(DataCombine)
 
 
 # Load raw updated data. Hand entered from original PDF
@@ -25,10 +26,20 @@ new <- import('source/raw_data/dis_2014.csv') %>% filter(year > 2011)
 old <- import('Disproportionality.csv')
 old$iso2c <- countrycode(old$country, origin = 'country.name', 
                          destination = 'iso2c')
+old <- old %>% select(iso2c, year, disproportionality)
 
 # Clean up columns
 for (i in names(new)) new[, i] <- str_trim(new[, i])
 for (i in 3:5) new[, i] <- as.numeric(new[, i])
+new$iso2c <- countrycode(new$country, origin = 'country.name', 
+                         destination = 'iso2c')
+new <- new %>% select(iso2c, year, disproportionality)
 
-# Select just distroportionality
-new <- new %>% select(disproportionality)
+comb <- rbind(old, new) %>% arrange(iso2c, year)
+
+comb$country <- countrycode(comb$iso2c, origin = 'iso2c', 
+                            destination = 'country.name')
+comb <- MoveFront(comb, 'country')
+
+# Save
+export(comb, 'Disproportionality.csv')
