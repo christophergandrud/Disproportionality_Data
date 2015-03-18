@@ -1,48 +1,48 @@
 <!DOCTYPE html>
 <html>
-
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Disproportionality data : A .csv file of Gallagher Disproportionality Data">
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>Disproportionality data</title>
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>Disproportionality data by christophergandrud</title>
   </head>
 
   <body>
+    <div id="container">
+      <div class="inner">
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/christophergandrud/Disproportionality_Data">View on GitHub</a>
-
-          <h1 id="project_title">Disproportionality data</h1>
-          <h2 id="project_tagline">A .csv file of Gallagher Disproportionality Data</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/christophergandrud/Disproportionality_Data/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/christophergandrud/Disproportionality_Data/tarball/master">Download this project as a tar.gz file</a>
-            </section>
+        <header>
+          <h1>Disproportionality data</h1>
+          <h2>A .csv file of Gallagher Disproportionality Data</h2>
         </header>
-    </div>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h1>
+        <section id="downloads" class="clearfix">
+          <a href="https://github.com/christophergandrud/Disproportionality_Data/zipball/master" id="download-zip" class="button"><span>Download .zip</span></a>
+          <a href="https://github.com/christophergandrud/Disproportionality_Data/tarball/master" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
+          <a href="https://github.com/christophergandrud/Disproportionality_Data" id="view-on-github" class="button"><span>View on GitHub</span></a>
+        </section>
+
+        <hr>
+
+        <section id="main_content">
+          <h1>
 <a id="gallagher-electoral-disproportionality-data" class="anchor" href="#gallagher-electoral-disproportionality-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>Gallagher Electoral Disproportionality Data</h1>
 
 <h2>
-<a id="121-countries-1945-2011" class="anchor" href="#121-countries-1945-2011" aria-hidden="true"><span class="octicon octicon-link"></span></a>121 Countries, 1945-2011</h2>
+<a id="121-countries-1945-2014" class="anchor" href="#121-countries-1945-2014" aria-hidden="true"><span class="octicon octicon-link"></span></a>121 Countries, 1945-2014</h2>
 
 <h2>
-<a id="current-version-v1" class="anchor" href="#current-version-v1" aria-hidden="true"><span class="octicon octicon-link"></span></a>Current version: v1</h2>
+<a id="current-version-v2" class="anchor" href="#current-version-v2" aria-hidden="true"><span class="octicon octicon-link"></span></a>Current version: v2</h2>
 
 <p>Christopher Gandrud  </p>
 
-<p>Data Updated: 11 January 2013</p>
+<p>Data Updated: 18 January 2015</p>
 
 <h2>
 <a id="what-is-it" class="anchor" href="#what-is-it" aria-hidden="true"><span class="octicon octicon-link"></span></a>What is it?</h2>
@@ -52,7 +52,7 @@
 <h2>
 <a id="why-did-i-make-this" class="anchor" href="#why-did-i-make-this" aria-hidden="true"><span class="octicon octicon-link"></span></a>Why did I make this?</h2>
 
-<p>There is currently no complete and recently updated Gallagher Index data freely available in a format that is easy to do statistical analysis on. The data on Michael Gallagher's <a href="http://www.tcd.ie/Political_Science/staff/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf">website</a> has been recently updated (the one I used was from 21 February 2012). However it is only available in PDF format; not exactly the easiest format to merge into an R or Stata file. </p>
+<p>There is currently no complete and recently updated Gallagher Index data freely available in a format that is easy to do statistical analysis on. The data on Michael Gallagher's <a href="http://www.tcd.ie/Political_Science/staff/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf">website</a> has been recently updated (the one I used was from 21 February 2012). However it is only available in PDF format; not exactly the easiest format to merge into an R or Stata file.</p>
 
 <p>So, after going through the somewhat painstaking work of entering all of this data into a .csv file (and filling in some holes with Carey and Hix's data) I decided to make my efforts publicly available. Hopefully, this will free up some research time for more productive endeavours than copying and pasting data from a PDF file.</p>
 
@@ -68,7 +68,7 @@
 
 <p>The Least Squares or Gallagher Index of electoral disproportionality basically uses the standard least squares method for comparing the relationship between two samples. It compares parties' votes to the legislative seats they are given. Higher numbers on the Gallagher Index indicate that there is a greater disparity between votes and seats, i.e. elections have produced more disproportional outcomes. A Gallagher score of 0 would indicated that the election produced perfectly proportional outcomes.</p>
 
-<p>For more information see: </p>
+<p>For more information see:</p>
 
 <blockquote>
 <p>Gallagher, Michael. 1991. “Proportionality, Disproportionality, and Electoral Systems.” Electoral Studies 10(1): 33–41.</p>
@@ -77,20 +77,11 @@
 </blockquote>
 
 <h2>
-<a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Citation</h2>
-
-<p>If you use this data set please cite the two articles by Gallagher and Carey/Hix. It would also be great if you could cite the working paper I created the combined data set for:</p>
-
-<blockquote>
-<p>Gandrud, Christopher. 2012. Two Sword Lengths: Losers' Consent and Violence in National Legislatures. Available at SSRN: <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2044278">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2044278</a>.</p>
-</blockquote>
-
-<h2>
 <a id="more-details-on-the-data" class="anchor" href="#more-details-on-the-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>More details on the data.</h2>
 
 <p>These notes give specific details about how I combined the two data sets into the one .csv file.</p>
 
-<p>Data is for national overall disproportionality. </p>
+<p>Data is for national overall disproportionality.</p>
 
 <p>I did not include Northern Ireland, Scotland, Wales, Turkish Cyprus, or Palestine.</p>
 
@@ -125,7 +116,7 @@
 
 <p>South Korea before 2004  </p>
 
-<p>Sri Lanka before 2000   </p>
+<p>Sri Lanka before 2000</p>
 
 <p>Taiwan 1998  </p>
 
@@ -146,6 +137,8 @@
 
 <p>Greece uses November election for 1989 (previous election was in June)  </p>
 
+<p>Greece uses June election for 2012 (previous election was in May).</p>
+
 <p>Iceland uses October election for 1959 (previous election was in June)  </p>
 
 <p>Ireland uses November Election for 1983 (previous election was in February)  </p>
@@ -156,7 +149,8 @@
 
 <p>United Kingdom uses October Election for 1974 (previous election was in February)  </p>
 
-<p>The United States data is for House elections. I did not included data on executive disproportionality, though Gallagher includes this in his PDF file.</p>
+<p>The United States data is for House elections. I did not included data on
+executive disproportionality, though Gallagher includes this in his PDF file.</p>
 
 <h3>
 <a id="see-gallagher-and-carey--hix-for-further-notes" class="anchor" href="#see-gallagher-and-carey--hix-for-further-notes" aria-hidden="true"><span class="octicon octicon-link"></span></a>See <a href="http://www.tcd.ie/Political_Science/staff/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf">Gallagher</a> and <a href="http://www.dartmouth.edu/%7Ejcarey/Data_Archive.html">Carey &amp; Hix</a> for further notes.</h3>
@@ -164,18 +158,14 @@
 <hr>
 
 <p><a href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by/3.0/88x31.png"></a><br>Disproportionality Data by <a href="https://github.com/christophergandrud/Disproportionality_Data">Christopher Gandrud</a> is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.</p>
-      </section>
-    </div>
+        </section>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Disproportionality data maintained by <a href="https://github.com/christophergandrud">christophergandrud</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+        <footer>
+          Disproportionality data is maintained by <a href="https://github.com/christophergandrud">christophergandrud</a><br>
+          This page was generated by <a href="https://pages.github.com">GitHub Pages</a>. Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
+        </footer>
 
-              <script type="text/javascript">
+                  <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
           </script>
@@ -186,6 +176,7 @@
             } catch(err) {}
           </script>
 
-
+      </div>
+    </div>
   </body>
 </html>
